@@ -104,6 +104,8 @@ scikit-learn==1.6.1
 
 joblib
 
+tensorflow
+
 matplotlib
 
 shap
