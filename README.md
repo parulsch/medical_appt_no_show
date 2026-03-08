@@ -110,3 +110,5 @@ shap
 
 xgboost
 
+- **GitHub repository link**--- https://github.com/parulsch/medical_appt_no_show
+- **Deployed Streamlit app link**--- https://medicalapptnoshow-be5ochuqgsjnacfx3ehyqx.streamlit.app/
