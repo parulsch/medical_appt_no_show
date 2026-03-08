@@ -6,4 +6,3 @@ joblib
 matplotlib
 shap
 xgboost
-tensorflow
