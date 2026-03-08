@@ -74,6 +74,8 @@ medical_appt_no_show/
 │
 ├── app.py
 ├── requirements.txt
+├── data/
+│   ├── noshowappointments.csv
 ├── README.md
 ├── artifacts/
 │   ├── figures/
