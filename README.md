@@ -73,10 +73,13 @@ Displays SHAP plots and allows the user to enter appointment details to get:
 medical_appt_no_show/
 │
 ├── app.py
+├── train.py
+├── train.ipynb
 ├── requirements.txt
 ├── data/
 │   ├── noshowappointments.csv
 ├── README.md
+├── artifacts.zip
 ├── artifacts/
 │   ├── figures/
 │   ├── metrics/
